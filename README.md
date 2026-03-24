@@ -1,6 +1,8 @@
 # Evaluating Sparse Autoencoders for Monosemantic Representation
 
-Welcome to the repository for **"Evaluating Sparse Autoencoders for Monosemantic Representation"**.  
+Welcome to the repository for [**"Evaluating Sparse Autoencoders for Monosemantic Representation"**](https://aclanthology.org/2026.findings-eacl.313/).
+
+This work is published at the European Chapter of the Association for Computational Linguistics (EACL) 2026.
 
 ## Requirements
 
