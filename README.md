@@ -1,4 +1,4 @@
-# Evaluating Sparse Autoencoders for Monosemantic Representation
+# SAEMonosemanticity
 
 Welcome to the repository for [**"Evaluating Sparse Autoencoders for Monosemantic Representation"**](https://aclanthology.org/2026.findings-eacl.313/).
 
